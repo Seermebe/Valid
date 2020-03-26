@@ -23,3 +23,7 @@ Otra opción es instalar directamente el APK https://github.com/Seermebe/Valid/b
 Para seleccionar un item como favorito:
 - Debe seleccionar un item, esto lo llevará al formulario de detalles
 - Ahí, en la parte superior derecha hay una estrella, debe pulsarlo para seleccionarlo como favorito y listo.
+
+# Documentación JavaDoc del proyecto.
+
+https://github.com/Seermebe/Valid/tree/master/javadoc
